@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hammam</h1>
-<h3 align="center">A passionate frontend developer froBackend Developer | PHP (Laravel) Enthusiast | Building Scalable Solutions | Passionate About Clean Code | From Egypt India</h3>
+<h3 align="center">A passionate frontend developer | Backend Developer | PHP (Laravel) Enthusiast | Building Scalable Solutions | Passionate About Clean Code | From Egypt India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hammam378](https://github.com/Hammam378)
 
