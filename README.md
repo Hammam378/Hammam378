@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **devhammam1@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AviVg5JWSTncb7b8d03bdjAjspc?e=b23Nhd](https://1drv.ms/b/s!AviVg5JWSTncb7b8d03bdjAjspc?e=b23Nhd)
-
 - ⚡ Fun fact **I think I'm good at what I do**
 
 <h3 align="left">Connect with me:</h3>
